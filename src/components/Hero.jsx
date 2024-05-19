@@ -13,7 +13,7 @@ const Hero = () => {
       className="min-h-screen flex py-10 md:flex-row flex-col items-center"
     >
       <div className="flex-1 flex items-center justify-center h-full">
-        <img src={hero} alt="" className="md:w-11/12 h-full object-cover" />
+        <img src='https://res.cloudinary.com/dzzmpu8vk/image/upload/v1716130698/FileUpload/pegnlzzutziwe7znc3ky.jpg' alt="" className="md:w-6/12  w-7/12 h-full object-cover rounded-xl mb-4" />
       </div>
       <div className="flex-1">
         <div className="md:text-left text-center">
