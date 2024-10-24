@@ -16,7 +16,7 @@ const projects = [
   {
     title: "Arduino-based Robotic Hand",
     description: "A functional robotic hand controlled by Arduino, showcasing skills in robotics and mechanical design.",
-    image: project1
+    image: 'https://i.imghippo.com/files/emJ7191sjg.jpg'
   },
   {
     title: "Obstacle Avoidance Robot",
@@ -31,7 +31,7 @@ const projects = [
   {
     title: "Radar System (Arduino-based)",
     description: "Design and implementation of a radar system using Arduino, demonstrating skills in hardware and signal processing.",
-    image: "https://example.com/radar_system_image.jpg"
+    image: "https://i.imghippo.com/files/ll7143dIY.jpg"
   },
   {
     title: "Car Parking Barrier System",
@@ -46,7 +46,7 @@ const projects = [
   {
     title: "Ultron (Robo war)",
     description: "Creation of Ultron, a competitive robot designed for Robo War competitions, demonstrating expertise in robotic design and combat engineering.",
-    image: "https://example.com/ultron_image.jpg"
+    image: "https://i.imghippo.com/files/xhU7912OKU.jpg"
   }
 ];
 
