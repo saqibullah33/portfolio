@@ -14,22 +14,22 @@ const projects = [
   {
     title: "Line Follower Robot",
     description: "A robot capable of autonomously following a predefined path using sensors, demonstrating proficiency in robotics and sensor integration.",
-    image: project2
+    image: 'https://res.cloudinary.com/dzzmpu8vk/image/upload/v1738740274/hddtd8pbtc9medbcteae.png'
   },
   {
     title: "Arduino-based Robotic Hand",
     description: "A functional robotic hand controlled by Arduino, showcasing skills in robotics and mechanical design.",
-    image: Hand
+    image: 'https://res.cloudinary.com/dzzmpu8vk/image/upload/v1738737350/dmf8uhviwwfv95m6pak1.jpg'
   },
   {
-    title: "Obstacle Avoidance Robot",
+    title: "NET NURF",
     description: "A robot equipped with sensors to detect and navigate around obstacles autonomously, highlighting expertise in robotics and programming.",
     image: "https://example.com/obstacle_avoidance_robot_image.jpg"
   },
   {
     title: "EMG Sensor",
     description: "Implementation of an EMG sensor system, showcasing proficiency in working with advanced sensor technology for biofeedback applications.",
-    image: "https://example.com/emg_sensor_image.jpg"
+    image: "https://res.cloudinary.com/dzzmpu8vk/image/upload/v1738740274/wef36qdqkoourdf6larg.webp"
   },
   {
     title: "Radar System (Arduino-based)",
@@ -37,20 +37,40 @@ const projects = [
     image: Radar
   },
   {
-    title: "Car Parking Barrier System",
+    title: "Facial Recognition System",
     description: "Engineering of a car parking barrier system for efficient and controlled vehicle access, showcasing practical engineering skills.",
     image: "https://example.com/parking_barrier_image.jpg"
   },
   {
     title: "Door Opening using Keyboard",
     description: "Development of a door opening mechanism controlled by a keyboard, exhibiting creativity in solving real-world problems using technology.",
-    image: "https://example.com/door_opening_image.jpg"
+    image: "https://res.cloudinary.com/dzzmpu8vk/image/upload/v1738740273/dixzijwfomjh7dua7373.jpg"
   },
   {
     title: "Ultron (Robo war)",
     description: "Creation of Ultron, a competitive robot designed for Robo War competitions, demonstrating expertise in robotic design and combat engineering.",
     image: Robowar
-  }
+  },
+  {
+    title: "RC Car",
+    description: "Creation of Ultron, a competitive robot designed for Robo War competitions, demonstrating expertise in robotic design and combat engineering.",
+    image: 'https://res.cloudinary.com/dzzmpu8vk/image/upload/v1738737350/hdibebtmgbp6gkmmfizt.jpg'
+  },
+
+  {
+    title: "Facial Recognition Lock System",
+    description: "Creation of Ultron, a competitive robot designed for Robo War competitions, demonstrating expertise in robotic design and combat engineering.",
+    image: 'https://res.cloudinary.com/dzzmpu8vk/image/upload/v1738737350/ulapxgyuzvxgfdcvc7dk.jpg'
+  },
+
+  {
+    title: "Nerf Turret, design in Solidworks, 3D printed using PLA material",
+    description: 'Designed in SolidWorks and 3D printed with PLA, this turret combines precision, durability, and smooth rotation, showcasing expertise in CAD modeling and prototyping.',
+    image: 'https://res.cloudinary.com/dzzmpu8vk/image/upload/v1738737351/dyp4e2ncdgnt7kh4nmr0.jpg'
+  },
+
+  
+  
 ];
 
 

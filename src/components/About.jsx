@@ -17,7 +17,7 @@ const About = () => {
           <div className="p-2">
             <div className="text-gray-300 my-3">
               <p className="text-justify leading-7 w-11/12 mx-auto">
-                Alhamdulillah, I am Mustafa, 12 years old and currently studying in Class 7 at GAPS (Garrison Army Public School) in Peshawar. I have been doing some robotics work at home since last year and completed a few projects on my own and some with my instructor
+                Hi, I am Mustafa, 12 years old and currently studying in Class 7 at GAPS (Garrison Army Public School) in Peshawar. I have been doing some robotics work at home since last year and completed a few projects on my own and some with my instructor
               </p>
               <div className="flex mt-10 items-center gap-7">
                 {info.map((content) => (

@@ -22,7 +22,7 @@ const Hero = () => {
               Hello!
               <br />
             </span>
-            My Name is <span>Musatafa</span>
+            My Name is <span>Mustafa</span>
           </h1>
           <h4 className="md:text-2xl text-lg md:leading-normal leading-5 mt-4 font-bold text-gray-600">
           12-year-old with a passion for robotics,          </h4>
