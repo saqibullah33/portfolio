@@ -28,14 +28,7 @@ const Hero = () => {
           12-year-old with a passion for robotics,          </h4>
           <button className="btn-primary mt-8">Contact Me</button>
           <div className="mt-8 text-3xl flex items-center md:justify-start justify-center gap-5">
-            {social_media?.map((icon) => (
-              <div
-                key={icon}
-                className="text-gray-600 hover:text-white cursor-pointer "
-              >
-               <a href="www.google.com"><ion-icon name={icon}></ion-icon></a> 
-              </div>
-            ))}
+           
           </div>
         </div>
       </div>
